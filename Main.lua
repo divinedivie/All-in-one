@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://gist.githubusercontent.com/scripts-api-true/d200210ada6dc40779740fdd338a4d9d/raw/faf5efca116fa2766ae9cf06e4c1c600d4949af6/ALLINONE.lua"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/scripts-api-true/042965e02e3521e0f00e325cadaf2ffc/raw/32536734337ad76a7d2a66c49aa19ec25d5aaefa/ALLINONE.lua"))()
